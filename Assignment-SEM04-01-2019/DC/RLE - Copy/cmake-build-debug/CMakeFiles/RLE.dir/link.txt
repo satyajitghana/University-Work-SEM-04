@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/RLE.dir/main.c.o CMakeFiles/RLE.dir/input_helper.c.o CMakeFiles/RLE.dir/vector.c.o CMakeFiles/RLE.dir/data_compression.c.o  -o RLE 

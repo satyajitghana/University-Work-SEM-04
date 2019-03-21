@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/mst_util.c
+mst_util.h
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/mst_util.h
+limits.h
+-
+stdio.h
+-
+
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/mst_util.h
+stdbool.h
+-
+

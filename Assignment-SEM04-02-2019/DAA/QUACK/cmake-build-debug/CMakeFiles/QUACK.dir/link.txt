@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/QUACK.dir/main.c.o CMakeFiles/QUACK.dir/stack.c.o CMakeFiles/QUACK.dir/input_helper.c.o CMakeFiles/QUACK.dir/quack.c.o CMakeFiles/QUACK.dir/vector.c.o  -o QUACK 

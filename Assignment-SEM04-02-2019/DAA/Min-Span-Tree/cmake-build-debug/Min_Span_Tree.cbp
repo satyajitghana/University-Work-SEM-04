@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Min_Span_Tree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Min_Span_Tree">
+				<Option output="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Min_Span_Tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 Min_Span_Tree"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Min_Span_Tree/fast">
+				<Option output="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Min_Span_Tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 Min_Span_Tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/main.c">
+			<Option target="Min_Span_Tree"/>
+		</Unit>
+		<Unit filename="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/mst_util.c">
+			<Option target="Min_Span_Tree"/>
+		</Unit>
+		<Unit filename="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/mst_util.h">
+			<Option target="Min_Span_Tree"/>
+		</Unit>
+		<Unit filename="/mnt/d/University-Work/Assignment-SEM04-02-2019/DAA/Min-Span-Tree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

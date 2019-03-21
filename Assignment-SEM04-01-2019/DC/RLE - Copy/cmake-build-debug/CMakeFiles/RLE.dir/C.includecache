@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/data_compression.h
+input_helper.h
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/input_helper.h
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/debug_helper.h
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/input_helper.h
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/main.c
+stdio.h
+-
+string.h
+-
+data_compression.h
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/data_compression.h
+debug_helper.h
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DC/RLE/debug_helper.h
+

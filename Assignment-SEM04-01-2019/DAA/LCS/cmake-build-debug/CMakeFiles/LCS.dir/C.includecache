@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DAA/LCS/lcs.c
+lcs.h
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DAA/LCS/lcs.h
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DAA/LCS/lcs.h
+vector.h
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DAA/LCS/vector.h
+
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DAA/LCS/vector.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+vector.h
+/mnt/d/University-Work/Assignment-SEM04-01-2019/DAA/LCS/vector.h
+

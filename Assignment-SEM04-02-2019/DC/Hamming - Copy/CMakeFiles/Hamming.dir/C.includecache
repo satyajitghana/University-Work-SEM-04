@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DC/Hamming - Copy/hamming.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+hamming.h
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DC/Hamming - Copy/hamming.h
+
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DC/Hamming - Copy/hamming.h
+input_helper.h
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DC/Hamming - Copy/input_helper.h
+
+/mnt/d/University-Work/Assignment-SEM04-02-2019/DC/Hamming - Copy/input_helper.h
+

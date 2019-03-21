@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Hamming.dir/main.c.o CMakeFiles/Hamming.dir/hamming.c.o CMakeFiles/Hamming.dir/input_helper.c.o  -o Hamming -lm 

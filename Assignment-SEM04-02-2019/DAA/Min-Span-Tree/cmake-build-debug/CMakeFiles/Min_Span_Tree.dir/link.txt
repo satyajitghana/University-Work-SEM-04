@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Min_Span_Tree.dir/main.c.o CMakeFiles/Min_Span_Tree.dir/mst_util.c.o  -o Min_Span_Tree 

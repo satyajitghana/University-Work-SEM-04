@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/LCS.dir/main.c.o CMakeFiles/LCS.dir/input_helper.c.o CMakeFiles/LCS.dir/lcs.c.o CMakeFiles/LCS.dir/vector.c.o  -o LCS 
