@@ -1,4 +1,4 @@
-# Title of the Lab
+# Bit-Counting
 .section .data
 
 .section .bss
@@ -16,7 +16,18 @@ _ret:
 # driver function
 _start:
   
-    # do your stuff here
+    movl $0x7F, %ebx    # b = 127 // actual number
+    movl $0, %ecx       # c = 0 // to keep track of the number of 1's
+loop:
+    movl $1, %eax       # a = 1
+    andl %ebx, %eax     # a = a & b
+    addl %eax, %ecx     # c = c + a
+    sarl %ebx
+    cmp $0, %ebx
+    jne loop
+
+    movl %ecx, %eax     # a = c
+    andl $1, %eax       # a = a & 1 // if even no. of 1's then 0 else 1
 
     syscall
     call _ret           # exit
