@@ -16,28 +16,28 @@ _ret:
 # driver function
 _start:
   
-    movl $1, %eax
-    movl $2, %ebx
-    movl $3, %ecx
-    movl $4, %edx
-    movl $5, %esi
-    movl $6, %edi
-    movl $7, %esp
-    movl $8, %ebp
+    movb $1, %al
+    movb $2, %ah
+    movb $3, %bl
+    movb $4, %bh
+    movb $5, %cl
+    movb $6, %ch
+    movb $7, %dl
+    movb $8, %dh
 
-    addl %ebx, %eax
-    addl %ecx, %eax
-    addl %edx, %eax
-    addl %esi, %eax
-    addl %edi, %eax
-    addl %esp, %eax
-    addl %ebp, %eax
+    addb %ah, %al
+    addb %bl, %al
+    addb %bh, %al
+    addb %cl, %al
+    addb %ch, %al
+    addb %dl, %al
+    addb %dh, %al
 
     syscall
     call _ret           # exit
 
 # OUTPUT
-; Breakpoint 1, _start () at file.s:36
-; 36          syscall
-; (gdb) info register eax
-; eax            0x24     36
+# Breakpoint 1, _start () at file.s:36
+# 36          syscall
+# (gdb) info register al
+# eax            0x24     36
